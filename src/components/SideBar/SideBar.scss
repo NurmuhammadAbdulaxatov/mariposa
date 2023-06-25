@@ -1,0 +1,30 @@
+.sidebar {
+  width: 230px;
+  height: 100vh;
+  background-color: #acbfa4;
+  padding-top: 15px;
+
+  .sidebar-pagination {
+    width: 200px;
+    padding: 10px;
+    margin: 15px;
+
+    .sidebar-text {
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-top: 30px;
+      color: white;
+    }
+  }
+
+  .logo {
+    width: 80px;
+    margin: 0 auto;
+  }
+  .hr {
+    width: 180px;
+    margin: 20px auto;
+  }
+}
