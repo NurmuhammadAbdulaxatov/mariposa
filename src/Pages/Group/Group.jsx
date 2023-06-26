@@ -8,7 +8,9 @@ const Group = () => {
     <>
       <div className="group">
         <SideBar />
-        <TopBar />
+        <div>
+          <TopBar />
+        </div>
       </div>
     </>
   );
